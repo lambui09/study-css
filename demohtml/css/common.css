@@ -1,0 +1,10 @@
+/*
+%(fonts) : x% * parent's computed front-size: 150%: x% * -> 24px
+% (lengths) x% * parent's computed width -> 100px
+em(fonts) : x * parent computed front-size -> 72px (3 *24)
+em(length) : x * current element computed font-size -> 48px
+rem : x * root computed font-size : 160px
+vh : x * 1% of viewport height: 90 -> 90% of block
+vm: same
+
+*/
