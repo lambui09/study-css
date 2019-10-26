@@ -34,9 +34,10 @@ body {
   background-size: cover;
   background-position: top;
   position: relative;
-  clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%););
+  clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
 }
-
+//file k dung dinh dang hay sao no khong co mau do nhi
+// cos the chau cai plugin, co file bt ma, plugin scss a ha??
 .header__logo-box {
   position: absolute;
   top: 4rem;

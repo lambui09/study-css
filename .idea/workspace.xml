@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="baa50c49-9b24-482c-b627-611c87fbb486" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demohtml/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demohtml/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demohtml/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/demohtml/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demohtml/sass/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/demohtml/sass/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demohtml/sass/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/demohtml/sass/layout/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +32,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ledDemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,6 +50,34 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/node_modules/node-sass/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/node_modules/node-sass/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -70,7 +99,14 @@
       <workItem from="1571383430294" duration="1244000" />
       <workItem from="1571556308948" duration="16956000" />
       <workItem from="1572020343838" duration="2539000" />
-      <workItem from="1572079863919" duration="9261000" />
+      <workItem from="1572079863919" duration="9379000" />
+      <workItem from="1572094509869" duration="2007000" />
+      <workItem from="1572097432145" duration="4867000" />
+      <workItem from="1572269213065" duration="25000" />
+      <workItem from="1572269368163" duration="67000" />
+      <workItem from="1572269478937" duration="1340000" />
+      <workItem from="1572353643702" duration="9248000" />
+      <workItem from="1572666455194" duration="5695000" />
     </task>
     <servers />
   </component>

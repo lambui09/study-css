@@ -1,0 +1,25 @@
+{
+  "name": "study-css",
+  "version": "1.0.0",
+  "description": "learn css, sass, sp for project.",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:sass": "node-sass demohtml/sass/ -o demohtml/css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lambui09/study-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lambui09/study-css/issues"
+  },
+  "homepage": "https://github.com/lambui09/study-css#readme"
+}
