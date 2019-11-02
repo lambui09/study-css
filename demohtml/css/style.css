@@ -23,7 +23,6 @@ body {
     background-position: top;
     position: relative;
     clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
-
 }
 
 .logo {
@@ -111,6 +110,7 @@ body {
     display: inline-block;
     border-radius: 100px;
     transition: all .2s;
+    position: relative;
 }
 
 .btn:hover {
@@ -130,16 +130,16 @@ body {
 }
 
 .btn::after {
-    content: "";
-    display: inline-block;
-    height: 100%;
-    width: 100%;
-    border-radius: 100px;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    transition: all .4s;
+        content: "";
+        display: inline-block;
+        height: 100%;
+        width: 100%;
+        border-radius: 100px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+        transition: all .4s;
 
 }
 
@@ -160,7 +160,7 @@ body {
 
 .btn:hover::after{
     background-color: red;
-    transform: scale(1.5);
+    transform: scaleX(1.4) scaleY(1.6);
     opacity: 0;
 }
 
