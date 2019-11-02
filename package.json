@@ -3,13 +3,18 @@
   "version": "1.0.0",
   "description": "learn css, sass, sp for project.",
   "main": "index.js",
-  "dependencies": {
-    "node-sass": "^4.13.0"
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.13.0",
+    "rerun-script": "^0.6.0"
   },
-  "devDependencies": {},
+  "watches": {
+    "sass": "sass/**"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build:sass": "node-sass demohtml/sass/ -o demohtml/css/"
+    "build:sass": "node-sass demohtml/sass/ -o demohtml/css/",
+    "dev": "rerun-script"
   },
   "repository": {
     "type": "git",

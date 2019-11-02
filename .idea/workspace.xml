@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="baa50c49-9b24-482c-b627-611c87fbb486" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demohtml/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/demohtml/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demohtml/sass/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/demohtml/sass/abstracts/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demohtml/sass/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/demohtml/sass/layout/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +98,9 @@
       <workItem from="1571383430294" duration="1244000" />
       <workItem from="1571556308948" duration="16956000" />
       <workItem from="1572020343838" duration="2539000" />
+      <workItem from="1572079863919" duration="9379000" />
+      <workItem from="1572094509869" duration="2007000" />
+      <workItem from="1572097432145" duration="986000" />
       <workItem from="1572079863919" duration="9379000" />
       <workItem from="1572094509869" duration="2007000" />
       <workItem from="1572097432145" duration="4867000" />
